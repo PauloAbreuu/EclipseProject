@@ -1,0 +1,30 @@
+input:focus
+{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+label
+{
+    color: #70C63B;
+}
+
+p
+{
+    color: #70C63B;
+}
+
+body
+{
+    background-color: black;
+}
+
+body
+{
+    text-align: center;
+}
+
+button a
+{
+    text-decoration: none;
+}

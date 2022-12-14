@@ -1,0 +1,33 @@
+input:focus
+{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.titulo
+{
+    color: #70C63B;
+}
+
+
+head title
+{
+    color: #70C63B;
+}
+
+
+label
+{
+    color: #70C63B;
+}
+
+p
+{
+    color: #70C63B;
+}
+
+body
+{
+    background-color: black;
+    text-align: center;
+}

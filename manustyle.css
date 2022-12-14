@@ -1,0 +1,29 @@
+p
+{
+    color: #70C63B;
+}
+
+body
+{
+    background-color: black;
+    text-align: center;
+}
+
+.aviso
+{
+    color: #70C63B;
+}
+
+.manu
+{
+    color: #70C63B;
+}
+
+.icondan
+{
+    fill: #70C63B;
+    margin-right: 0px;
+    width: 49px;
+    height: 38px;
+    margin-bottom: auto; 
+}
